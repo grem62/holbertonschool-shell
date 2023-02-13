@@ -1,2 +1,2 @@
 #!/bin/bash
-chown NewUser betty
+chown betty hello
